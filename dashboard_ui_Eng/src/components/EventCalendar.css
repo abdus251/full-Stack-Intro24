@@ -1,0 +1,14 @@
+/* EventCalendar.css */
+
+/* Default styles for regular weekdays, including Sunday */
+.react-calendar__tile {
+    background-color: #f0f0f0; /* Light gray background for regular days */
+    color: #000; /* Default text color */
+  }
+  
+  /* Styles for weekends (Friday and Saturday) */
+  .weekend {
+    background-color: #ffd6d6; /* Light red background for weekends */
+    color: #d32f2f; /* Dark red text color */
+  }
+  
